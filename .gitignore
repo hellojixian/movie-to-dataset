@@ -1,3 +1,8 @@
+output/*.jpg
+output/*.png
+output/**/*.jpg
+output/**/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
